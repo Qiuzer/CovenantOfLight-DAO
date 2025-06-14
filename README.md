@@ -3,10 +3,9 @@
 </p>
 
 <h1 align="center">🌟 Covenant of Light (COL) DAO 🌟</h1>
-
-
+<p>
 A Decentralized Autonomous Organization (DAO) dedicated to helping the brave warriors fighting for freedom in the Russia-Ukraine conflict by restoring their cherished items and creating 3D-printed statuettes.
-
+</p>
 
 ## 1. ✨ What Do We Do?
 
