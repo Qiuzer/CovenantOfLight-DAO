@@ -2,7 +2,7 @@
 
 A DAO dedicated to helping the brave warriors fighting for freedom in the Russia-Ukraine conflict by restoring their precious items and creating 3D-printed statuettes.
 
-## 2. What Do We Do?
+## 1. What Do We Do?
 
 COL DAO will focus on providing two core services:
 
@@ -13,7 +13,7 @@ COL DAO will focus on providing two core services:
 - **b) 3D Human Model Printing Service**:  
   We plan to utilize advanced 3D scanning and printing technology to provide high-precision 3D human model printing services for them.
 
-## 3. Why Choose the DAO Model?
+## 1. Why Choose the DAO Model?
 
 COL DAO adopts a Decentralized Autonomous Organization (DAO) model to ensure the project’s transparency, fairness, global participation, and sustainability:
 
@@ -29,7 +29,7 @@ COL DAO adopts a Decentralized Autonomous Organization (DAO) model to ensure the
 - **Smart Contract Assurance**:  
   Through smart contracts, fund payments and project processes will be automated, reducing human intervention and enhancing efficiency and trust.
 
-## 4. Our Philosophy
+## 3. Our Philosophy
 
 Covenant of Light (COL) DAO is more than just an organization; it is a spiritual covenant and a symbol:
 
@@ -38,6 +38,24 @@ Covenant of Light (COL) DAO is more than just an organization; it is a spiritual
 
 - **Covenant**:  
   Representing a global commitment to universal values of freedom, and unwavering solidarity and support for all warriors who fight to defend freedom—no matter where they are or what sacrifices they make.
+
+## 4. How to Participate?
+
+We sincerely invite you to join the Covenant of Light (COL) DAO and collectively forge hope and illuminate the future with us. Your participation is key to the project's success:
+
+### Become a Contributor
+
+By donating cryptocurrency, your funds will directly cover the core operational expenses of the project, including equipment procurement, material support, restoration expert fees, and volunteer training.
+
+### Become a Volunteer
+
+* **Technical Specialists:** If you are a 3D scanning/printing expert, UI/UX designer, front-end/back-end developer (web and blockchain development experience especially welcome), or possess project management experience, your professional skills are crucial to us.
+* **Artisans:** If you possess exquisite restoration craftsmanship, whether with metal, wood, textiles, or other materials, we welcome your involvement.
+* **Local Ukrainian Supporters:** If you are in Ukraine and willing to assist with 3D scanning, logistics coordination, or community outreach, your local presence will be a valuable bridge.
+
+### Become a Community Member
+
+Participate in the DAO's governance voting, discussions, and proposals. Your valuable advice will directly shape the project's direction and future.
 
 We view the heroic struggle for freedom in the Russia-Ukraine conflict as a beacon of belief that illuminates freedom for all humanity. It has not only protected Ukraine's independence and sovereignty but has also provided profound inspiration and inexhaustible strength to all who long for freedom.
 
