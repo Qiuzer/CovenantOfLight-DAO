@@ -1,4 +1,6 @@
-![COL DAO Logo](./Assets/COLDAO128.png)
+<p align="center">
+  <img src="https://github.com/Qiuzer/CovenantOfLight-DAO/blob/main/Assets/COLDAO128.png?raw=true" alt="Logo" />
+</p>
 # 🌟 Covenant of Light (COL) DAO 🌟
 
 A Decentralized Autonomous Organization (DAO) dedicated to helping the brave warriors fighting for freedom in the Russia-Ukraine conflict by restoring their cherished items and creating 3D-printed statuettes.
