@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Qiuzer/CovenantOfLight-DAO/blob/main/Assets/COLDAO128.png?raw=true" alt="Logo" />
+  <img src="Assets/COLDAO128.png?raw=true" alt="Logo" />
 </p>
 
 <h1 align="center">🌟 Covenant of Light (COL) DAO 🌟</h1>
