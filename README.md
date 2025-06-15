@@ -31,7 +31,7 @@ COL DAO adopts a Decentralized Autonomous Organization (DAO) model to ensure the
 -   **🤝 Community-Driven**:
     Community members will vote on project priorities, fund allocation, and other key matters, ensuring the project truly serves the needs of the warriors.
 
--   **🌐 Global Collaboration**:
+-   **🌐 Global Partnership**:
     Anyone who supports freedom and desires peace can join COL DAO, contributing funds, skills, or suggestions to collectively advance the project.
 
 -   **🔒 Smart Contract Assurance**:
